@@ -1,2 +1,1 @@
-# Android-App
-Quick Expense Tracker 
+# QuickExpensesTracker
